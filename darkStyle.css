@@ -1,0 +1,55 @@
+body
+{
+    font-family: 'Long Cang', cursive;
+    background-color: black;
+}
+h1,h2,h3
+{
+    color: #F05F44;
+}
+.bg
+{
+    background-color:white;
+}
+.top1
+{
+    margin-top: 3em;
+    padding-left: 4em;
+}
+.top2
+{
+    margin-top: 2em;
+}
+.btn
+{
+    border-radius: 10em;
+}
+.btn-dark
+{
+  background-color: #F05F44;
+  border-color: #F05F44;
+}
+.btn-dark:hover
+{
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 2px;
+}
+.pdg
+{
+    margin-top: 2em;
+}
+img
+{
+    margin-right: 15px;
+    transition: all 1s;
+}
+img:hover
+{
+    transform: scale(1.1);
+}
+hr
+{
+  border-color: #F05F44;
+  border-width: 2px;
+}

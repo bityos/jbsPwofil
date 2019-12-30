@@ -1,0 +1,66 @@
+body
+{
+    font-family: 'Long Cang', cursive;
+}
+h1,h2,h3
+{
+    color: blue;
+}
+h4,h5
+
+{
+    color: white;
+}
+.container
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.bg
+{
+    background-color: black;
+}
+.top1
+{
+    margin-top: 3em;
+    padding-left: 3em;
+}
+.top2
+{
+    margin-top: 2em;
+    padding-left: 5em;
+}
+.btn
+{
+    border-radius: 10em;
+}
+.btn-dark
+{
+  background-color: #037ffc;
+  border-color: #037ffc;
+}
+.btn-dark:hover
+{
+  background-color: blue;
+  border-color: blue;
+  border-width: 2px;
+}
+.pdg
+{
+    margin-top: 2em;
+}
+img
+{
+    margin-right: 15px;
+    transition: all 1s;
+}
+img:hover
+{
+    transform: scale(1.1);
+}
+hr
+{
+    border-color:blue;
+    border-width: 2px;
+}
